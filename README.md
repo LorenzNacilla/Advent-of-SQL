@@ -1,3 +1,3 @@
 # Advent of SQL
 
-Solutions for Advent of SQL - Done on DB Fiddle PostgreSQL v17
+Solutions for Advent of SQL - PostgreSQL v17
